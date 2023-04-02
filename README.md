@@ -32,7 +32,7 @@ NAME_DB=имя базы данных
 ## Стэк проекта
 	nestjs, bcryptjs, jwt, pg, sequelize, swagger,  uuid
 	
-##Документация
+## Документация
 Для просмотра документации в swagger-ui нужно перейти по адресу
 ```
 http://localhost:3000/docs
